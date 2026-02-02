@@ -45,3 +45,6 @@ const UserList = () => {
 4.  **Waterfalls**: Fetching child data only after parent finishes.
 
 **The Solution?** TanStack Query (in the State Management section).
+
+---
+[← Previous Section](../02-node-express-backend/04-database-integration.md) | [Next Section →](./02-hooks-deep-dive.md)

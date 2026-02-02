@@ -39,3 +39,6 @@ app.use(cors({
   credentials: true // Allow cookies to be sent
 }));
 ```
+
+---
+[← Previous Section](../03-react-frontend/03-state-management.md) | [Next Section →](./02-authentication-authorization.md)

@@ -34,3 +34,6 @@ In browser JS, you have `window`. In Node, you have `global`.
 *   `process.env`: Access environment variables (`API_KEY`, `DB_URL`).
 *   `process.exit(1)`: Crash the app (1 = error, 0 = success).
 *   `process.cwd()`: Current working directory.
+
+---
+[← Previous Section](../01-postgresql-database/04-performance.md) | [Next Section →](./02-express-basics.md)

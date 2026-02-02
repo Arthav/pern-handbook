@@ -92,3 +92,6 @@ Functions that take functions as arguments (map, filter, reduce).
 // Common in React rendering lists
 {items.map(item => <ListItem key={item.id} item={item} />)}
 ```
+
+---
+[← Previous Section](./02-environment-setup.md) | [Next Section →](../01-postgresql-database/01-basics.md)

@@ -63,3 +63,6 @@ SELECT
   RANK() OVER (PARTITION BY department ORDER BY salary DESC) as salary_rank
 FROM employees;
 ```
+
+---
+[← Previous Section](./02-schema-design.md) | [Next Section →](./04-performance.md)

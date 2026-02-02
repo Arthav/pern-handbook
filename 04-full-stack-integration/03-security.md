@@ -49,3 +49,6 @@ if (!result.success) {
 ## 5. SQL Injection & XSS
 *   **SQL Injection**: Solved by using Parameterized Queries (see Node section).
 *   **XSS (Cross Site Scripting)**: React automatically escapes content in JSX, protecting you from most XSS. Warning: Never use `dangerouslySetInnerHTML` unless absolutely necessary and sanitized.
+
+---
+[← Previous Section](./02-authentication-authorization.md) | [Next Section →](../05-devops-and-deployment/03-dockerization.md)

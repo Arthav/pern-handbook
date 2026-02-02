@@ -64,3 +64,6 @@ app.use('/users', userRoutes);
 *   `req.params`: URL parameters (`/users/:id` -> `req.params.id`).
 *   `req.query`: Query strings (`/users?page=2` -> `req.query.page`).
 *   `res.json({})`: Ensure you always send JSON APIs, not `res.send()`.
+
+---
+[← Previous Section](./01-node-internals.md) | [Next Section →](./03-architecture.md)

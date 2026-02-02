@@ -67,3 +67,6 @@ services:
 volumes:
   pgdata:
 ```
+
+---
+[← Previous Section](../04-full-stack-integration/03-security.md) | [Next Section →](./05-deployment.md)

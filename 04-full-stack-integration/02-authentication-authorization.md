@@ -52,3 +52,6 @@ api.interceptors.request.use((config) => {
   return config;
 });
 ```
+
+---
+[← Previous Section](./01-api-design.md) | [Next Section →](./03-security.md)

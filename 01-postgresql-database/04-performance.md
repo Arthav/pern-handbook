@@ -45,3 +45,6 @@ Postgres allows schema-less data with JSONB.
 -- Querying inside JSONB
 SELECT * FROM products WHERE specs @> '{"color": "red"}';
 ```
+
+---
+[← Previous Section](./03-advanced-sql.md) | [Next Section →](../02-node-express-backend/01-node-internals.md)

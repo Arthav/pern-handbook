@@ -42,3 +42,6 @@ export const useAuth = () => {
   return { user, login };
 };
 ```
+
+---
+[← Previous Section](./01-react-foundations.md) | [Next Section →](./03-state-management.md)

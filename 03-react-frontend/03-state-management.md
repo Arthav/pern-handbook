@@ -46,3 +46,6 @@ const App = () => {
   return <button onClick={toggleTheme}>{isDarkMode ? '🌙' : '☀️'}</button>;
 };
 ```
+
+---
+[← Previous Section](./02-hooks-deep-dive.md) | [Next Section →](../04-full-stack-integration/01-api-design.md)

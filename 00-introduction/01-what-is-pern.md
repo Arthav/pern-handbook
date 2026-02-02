@@ -43,3 +43,6 @@ This handbook is designed not just to teach you the syntax, but the *patterns*. 
 *   **DevOps**: Testing, CI/CD, and containerization.
 
 Let's begin the journey.
+
+---
+[Next Section →](./02-environment-setup.md)

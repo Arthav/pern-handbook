@@ -33,3 +33,6 @@ Don't send emails synchronously in the API request. Put it in a queue.
 2.  API adds "Send Email" job to Queue.
 3.  API returns "Success".
 4.  Worker process picks up job and sends email in background.
+
+---
+[← Previous Section](../05-devops-and-deployment/05-deployment.md) | [Next Section →](./02-capstone-project.md)

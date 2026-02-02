@@ -56,3 +56,6 @@ CREATE TABLE products (
   discount_percentage INTEGER CHECK (discount_percentage BETWEEN 0 AND 100)
 );
 ```
+
+---
+[← Previous Section](./01-basics.md) | [Next Section →](./03-advanced-sql.md)

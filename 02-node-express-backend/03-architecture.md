@@ -64,3 +64,6 @@ export const findByEmail = async (email) => {
 1.  **Testability**: You can mock the Repository to test the Service without a real DB.
 2.  **Maintainability**: Deeply nested logic is easier to track.
 3.  **Flexibility**: Switching from Postgres to Mongo? Just rewrite the Repository layer. The Controllers and Services stay the same.
+
+---
+[← Previous Section](./02-express-basics.md) | [Next Section →](./04-database-integration.md)

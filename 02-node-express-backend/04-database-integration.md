@@ -48,3 +48,6 @@ pool.query(`SELECT * FROM users WHERE id = ${req.body.id}`);
 pool.query('SELECT * FROM users WHERE id = $1', [req.body.id]);
 ```
 The driver sends the query and the data separately. The DB treats the data strictly as literal values, never as executable code.
+
+---
+[← Previous Section](./03-architecture.md) | [Next Section →](../03-react-frontend/01-react-foundations.md)

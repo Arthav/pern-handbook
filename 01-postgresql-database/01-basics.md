@@ -61,3 +61,6 @@ CREATE TABLE posts (
   content TEXT
 );
 ```
+
+---
+[← Previous Section](../00-introduction/03-javascript-refresher.md) | [Next Section →](./02-schema-design.md)

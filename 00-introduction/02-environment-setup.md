@@ -66,3 +66,6 @@ npm install -g pnpm nodemon
 ```
 *   **pnpm**: Faster, disk-efficient alternative to npm.
 *   **nodemon**: Automatically restarts your node application when files change.
+
+---
+[← Previous Section](./01-what-is-pern.md) | [Next Section →](./03-javascript-refresher.md)
