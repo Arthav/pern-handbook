@@ -42,6 +42,13 @@ This handbook is designed to take you from a basic understanding of web developm
 *   [🏗️ System Design](./06-senior-concepts-capstone/01-system-design.md) - Scaling, Caching (Redis), and Microservices.
 *   [🎓 Capstone Project](./06-senior-concepts-capstone/02-capstone-project.md) - A full Project Management Tool specification.
 
+### [07. Quiz & FAQ](./07-quiz-and-faq)
+*   [📝 Quiz](./07-quiz-and-faq/01-quiz.md) - Test your knowledge.
+*   [❓ FAQ & Troubleshooting](./07-quiz-and-faq/02-faq.md) - Common errors and fixes (CORS, Connection Refused).
+
+### [08. Beginner Tutorial](./08-beginner-tutorial)
+*   [👶 Total Beginner Guide](./08-beginner-tutorial/01-windows-mac-setup.md) - From zero to "Hello World" on Windows/Mac.
+
 ---
 
 *Created by Antigravity*

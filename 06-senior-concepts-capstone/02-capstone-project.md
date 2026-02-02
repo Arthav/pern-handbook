@@ -28,4 +28,4 @@ To graduate to Senior status, build this.
 If you can build this *cleanly*, properly typed, and with tests... **You are hired.**
 
 ---
-[← Previous Section](./01-system-design.md)
+[← Previous Section](./01-system-design.md) | [Next Section →](../07-quiz-and-faq/01-quiz.md)
