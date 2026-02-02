@@ -34,6 +34,7 @@ This handbook is designed to take you from a basic understanding of web developm
 *   [🛡️ Security](./04-full-stack-integration/03-security.md) - Rate limiting, Validation (Zod), and Security Headers.
 
 ### [05. DevOps & Deployment](./05-devops-and-deployment)
+*   [🖥️ Server Fundamentals](./05-devops-and-deployment/01-server-fundamentals.md) - Definitions of Server, OS, VPS, and Web Server.
 *   [🐳 Dockerization](./05-devops-and-deployment/03-dockerization.md) - Containerizing Node & React.
 *   [🚀 Deployment](./05-devops-and-deployment/05-deployment.md) - Deploying to a VPS with Nginx & PM2.
 

@@ -51,4 +51,4 @@ if (!result.success) {
 *   **XSS (Cross Site Scripting)**: React automatically escapes content in JSX, protecting you from most XSS. Warning: Never use `dangerouslySetInnerHTML` unless absolutely necessary and sanitized.
 
 ---
-[← Previous Section](./02-authentication-authorization.md) | [Next Section →](../05-devops-and-deployment/03-dockerization.md)
+[← Previous Section](./02-authentication-authorization.md) | [Next Section →](../05-devops-and-deployment/01-server-fundamentals.md)
