@@ -2,6 +2,13 @@
 
 PostgreSQL is an object-relational database management system (ORDBMS). It uses SQL (Structured Query Language).
 
+## Prerequisites: Running These Commands
+To follow this section, you need PostgreSQL installed. If you haven't done this yet, go back to [00. Environment Setup](../00-introduction/02-environment-setup.md).
+
+**How to run the SQL commands below?**
+1.  **VS Code (Recommended)**: Use the "PostgreSQL" extension by Microsoft. Connect to your database and open a new query file (`.sql`).
+2.  **PGAdmin / DBeaver**: Open the tool, connect to your database, and open the "Query Tool".
+
 ## 1. terminology
 *   **Database**: A container for your data (e.g., `my_app`).
 *   **Schema**: A namespace within a database (default is `public`).
