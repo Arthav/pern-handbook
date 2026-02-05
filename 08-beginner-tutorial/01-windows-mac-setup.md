@@ -117,7 +117,9 @@ You just setup a development environment, wrote a backend API, and launched a Re
 *   **Permissions**: Mac might ask for password (sudo) more often for global installs.
 
 **What's Next?**
-Go to [01. PostgreSQL Database](../01-postgresql-database/01-basics.md) to start learning how to save data.
+Now that you have dipped your toes in the water, it is time to set up a professional development environment and learn the full stack properly.
+
+Go to [00. Introduction](../00-introduction/01-what-is-pern.md) to start your journey to Senior.
 
 ---
 [← Previous Section](../07-quiz-and-faq/02-faq.md)
